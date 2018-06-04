@@ -14,3 +14,5 @@
  1. HTML
  2. CSS
  3. JAVASCRIPT
+ 4. Awesome Font by Bootstrap
+ 5. Google Fonts
